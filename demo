@@ -18,3 +18,4 @@
 <h2>Relative URLs</h2>
 <p><a href="html_images.asp">HTML Images</a></p>
 <p><a href="/css/default.asp">CSS Tutorial</a></p>
+<a href="https://www.w3schools.com/html/" title="Go to W3Schools HTML section">Visit our HTML Tutorial</a>
