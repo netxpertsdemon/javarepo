@@ -20,3 +20,6 @@
 <p><a href="/css/default.asp">CSS Tutorial</a></p>
 <a href="https://www.w3schools.com/html/" title="Go to W3Schools HTML section">Visit our HTML Tutorial</a>
 <a href="default.asp">HTML tutorial</a>
+<h2>This is heading 2</h2>
+<p>This is some other text.</p>
+<hr>
